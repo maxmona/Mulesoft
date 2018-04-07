@@ -22,6 +22,7 @@ http://training-american-ws.cloudhub.io/api/flights
 * American Flights API
 http://training-american-api.cloudhub.io/flights
 
+(for postman -add below keys in params)
 * American Flights API client_id for APDev fictitious application
 d1374b15c6864c3682ddbed2a247a826
 
