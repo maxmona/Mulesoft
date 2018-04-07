@@ -1,0 +1,35 @@
+Enterprise Application Integration
+
+MuleSoft - Anypoint studio
+Apache Camel 
+Biztalk
+etc...
+
+Mule messages
+
+Mediator Behavioral Design pattern
+
+ATC(Air traffic control) case study for mediator pattern
+Case study2 - Order fulfillment 
+
+
+API LED connectivity approach- 
+
+System API- connects with SAP/Toll/database/cloud
+
+Process API- consumes system APIs to get data/information
+
+Experience APi- presentation process.
+
+
+Steps
+
+1.API spec
+
+2.Mule project
+
+3.define flows
+
+1. API Spec - REST APIs mostly
+	
+	Use RAML/swagger tools to design specification. (rest api modeling language)
