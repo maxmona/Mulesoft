@@ -33,3 +33,9 @@ Steps
 1. API Spec - REST APIs mostly
 	
 	Use RAML/swagger tools to design specification. (rest api modeling language)
+
+	
+install postman
+================
+Anypoint Studio
+==========
